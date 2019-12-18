@@ -24,17 +24,17 @@ Then the `parsed_output.csv` file will be created and you will be able to move f
 In `Pivot Table`, our recommendation is
 - In Row Fields
 	- Organization
- - Virtual
- - Guest of Host
- - Host Subscription
- - Name
- - SKU
- - Subscription Name
- - Socket
- - Cores
+	- Virtual
+	- Guest of Host
+	- Host Subscription
+	- Name
+	- SKU
+	- Subscription Name
+	- Socket
+	- Cores
 
 - In Data Fields
- - Subscription Name (Count)
+	- Subscription Name (Count)
 
 Doing that, your report will be really AMAZING and totally useful.
 
