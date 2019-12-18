@@ -273,6 +273,5 @@ def main():
                         pass
 
 main()
-print("here")
 update_hypervisor_ent()
 save_in_file()

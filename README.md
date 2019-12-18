@@ -7,6 +7,7 @@ In order to use:
 - Download the script
 ```
 # wget https://raw.githubusercontent.com/waldirio/entitlement_report_parser/master/ent_report_parser.py
+# chmod +x ent_report_parser.py
 ```
 
 - Generate the input file
