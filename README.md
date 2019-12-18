@@ -23,7 +23,7 @@ Then the `parsed_output.csv` file will be created and you will be able to move f
 
 In `Pivot Table`, our recommendation is
 - In Row Fields
- -- Organization
+	- Organization
  - Virtual
  - Guest of Host
  - Host Subscription
